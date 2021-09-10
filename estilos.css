@@ -110,38 +110,3 @@ footer{
   font-size: 30px;
 
 }
-
-
-
-
-
-.name .contenido {
-  width: 50%;
-  height: 50%;
-  position: absolute;
-  left: 25%;
-  top: 10%;
-  font-family: Verdana;
-  color: gray;
-  font-size: 30px;
-}
-
-.name .img {
-  position: absolute;
-  width: 200px;
-  height: 200px;
-  border-radius: 100%;
-  top: 6%;
-  left: 4%;
-  overflow: hidden;
-}
-
-.name .img img {
-  width: 200px;
-  height: 200px;
-}
-
-
-
-
-
